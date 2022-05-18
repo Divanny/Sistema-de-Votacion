@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Administrador.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Ciencias_Basicas_y_Ambientales.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Ciencias_de_la_Salud.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Ciencias_Sociales_y_Humanidades.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Economia_y_Negocios.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="EstadisticasCantidad.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="EstadisticasEdad.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="EstadisticasGenero.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="EstadisticasPorcentuales.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Ingenieria.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Inicio.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

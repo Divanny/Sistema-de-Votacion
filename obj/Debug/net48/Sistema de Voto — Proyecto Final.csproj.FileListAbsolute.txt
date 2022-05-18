@@ -1,0 +1,36 @@
+D:\INTEC\Laboratorio Desarrollo de Software I\Sistema de Voto — Proyecto Final - copia\obj\Debug\net48\Sistema de Voto — Proyecto Final.csproj.AssemblyReference.cache
+D:\INTEC\Laboratorio Desarrollo de Software I\Sistema de Voto — Proyecto Final - copia\obj\Debug\net48\Sistema de Voto — Proyecto Final.csproj.SuggestedBindingRedirects.cache
+D:\INTEC\Laboratorio Desarrollo de Software I\Sistema de Voto — Proyecto Final - copia\obj\Debug\net48\Sistema de Voto — Proyecto Final.exe.config
+D:\INTEC\Laboratorio Desarrollo de Software I\Sistema de Voto — Proyecto Final - copia\obj\Debug\net48\Sistema_de_Voto___Proyecto_Final.Administrador.resources
+D:\INTEC\Laboratorio Desarrollo de Software I\Sistema de Voto — Proyecto Final - copia\obj\Debug\net48\Sistema_de_Voto___Proyecto_Final.Ciencias_Basicas_y_Ambientales.resources
+D:\INTEC\Laboratorio Desarrollo de Software I\Sistema de Voto — Proyecto Final - copia\obj\Debug\net48\Sistema_de_Voto___Proyecto_Final.Ciencias_de_la_Salud.resources
+D:\INTEC\Laboratorio Desarrollo de Software I\Sistema de Voto — Proyecto Final - copia\obj\Debug\net48\Sistema_de_Voto___Proyecto_Final.Ciencias_Sociales_y_Humanidades.resources
+D:\INTEC\Laboratorio Desarrollo de Software I\Sistema de Voto — Proyecto Final - copia\obj\Debug\net48\Sistema_de_Voto___Proyecto_Final.Economia_y_Negocios.resources
+D:\INTEC\Laboratorio Desarrollo de Software I\Sistema de Voto — Proyecto Final - copia\obj\Debug\net48\Sistema_de_Voto___Proyecto_Final.EstadisticasCantidad.resources
+D:\INTEC\Laboratorio Desarrollo de Software I\Sistema de Voto — Proyecto Final - copia\obj\Debug\net48\Sistema_de_Voto___Proyecto_Final.Ingenieria.resources
+D:\INTEC\Laboratorio Desarrollo de Software I\Sistema de Voto — Proyecto Final - copia\obj\Debug\net48\Sistema_de_Voto___Proyecto_Final.Inicio.resources
+D:\INTEC\Laboratorio Desarrollo de Software I\Sistema de Voto — Proyecto Final - copia\obj\Debug\net48\Sistema_de_Voto___Proyecto_Final.Properties.Resources.resources
+D:\INTEC\Laboratorio Desarrollo de Software I\Sistema de Voto — Proyecto Final - copia\obj\Debug\net48\Sistema de Voto — Proyecto Final.csproj.GenerateResource.cache
+D:\INTEC\Laboratorio Desarrollo de Software I\Sistema de Voto — Proyecto Final - copia\obj\Debug\net48\Sistema de Voto — Proyecto Final.GeneratedMSBuildEditorConfig.editorconfig
+D:\INTEC\Laboratorio Desarrollo de Software I\Sistema de Voto — Proyecto Final - copia\obj\Debug\net48\Sistema de Voto — Proyecto Final.AssemblyInfoInputs.cache
+D:\INTEC\Laboratorio Desarrollo de Software I\Sistema de Voto — Proyecto Final - copia\obj\Debug\net48\Sistema de Voto — Proyecto Final.AssemblyInfo.cs
+D:\INTEC\Laboratorio Desarrollo de Software I\Sistema de Voto — Proyecto Final - copia\obj\Debug\net48\Sistema de Voto — Proyecto Final.csproj.CoreCompileInputs.cache
+D:\INTEC\Laboratorio Desarrollo de Software I\Sistema de Voto — Proyecto Final - copia\bin\Debug\net48\Sistema de Voto — Proyecto Final.exe.config
+D:\INTEC\Laboratorio Desarrollo de Software I\Sistema de Voto — Proyecto Final - copia\bin\Debug\net48\Sistema de Voto — Proyecto Final.exe
+D:\INTEC\Laboratorio Desarrollo de Software I\Sistema de Voto — Proyecto Final - copia\bin\Debug\net48\Sistema de Voto — Proyecto Final.pdb
+D:\INTEC\Laboratorio Desarrollo de Software I\Sistema de Voto — Proyecto Final - copia\bin\Debug\net48\MySql.Data.dll
+D:\INTEC\Laboratorio Desarrollo de Software I\Sistema de Voto — Proyecto Final - copia\bin\Debug\net48\Google.Protobuf.dll
+D:\INTEC\Laboratorio Desarrollo de Software I\Sistema de Voto — Proyecto Final - copia\bin\Debug\net48\ZstdNet.dll
+D:\INTEC\Laboratorio Desarrollo de Software I\Sistema de Voto — Proyecto Final - copia\bin\Debug\net48\K4os.Compression.LZ4.Streams.dll
+D:\INTEC\Laboratorio Desarrollo de Software I\Sistema de Voto — Proyecto Final - copia\bin\Debug\net48\BouncyCastle.Crypto.dll
+D:\INTEC\Laboratorio Desarrollo de Software I\Sistema de Voto — Proyecto Final - copia\bin\Debug\net48\Ubiety.Dns.Core.dll
+D:\INTEC\Laboratorio Desarrollo de Software I\Sistema de Voto — Proyecto Final - copia\bin\Debug\net48\System.Buffers.dll
+D:\INTEC\Laboratorio Desarrollo de Software I\Sistema de Voto — Proyecto Final - copia\bin\Debug\net48\K4os.Compression.LZ4.dll
+D:\INTEC\Laboratorio Desarrollo de Software I\Sistema de Voto — Proyecto Final - copia\bin\Debug\net48\K4os.Hash.xxHash.dll
+D:\INTEC\Laboratorio Desarrollo de Software I\Sistema de Voto — Proyecto Final - copia\bin\Debug\net48\MySql.Data.xml
+D:\INTEC\Laboratorio Desarrollo de Software I\Sistema de Voto — Proyecto Final - copia\obj\Debug\net48\Sistema de Voto — Proyecto Final.csproj.CopyComplete
+D:\INTEC\Laboratorio Desarrollo de Software I\Sistema de Voto — Proyecto Final - copia\obj\Debug\net48\Sistema de Voto — Proyecto Final.exe
+D:\INTEC\Laboratorio Desarrollo de Software I\Sistema de Voto — Proyecto Final - copia\obj\Debug\net48\Sistema de Voto — Proyecto Final.pdb
+D:\INTEC\Laboratorio Desarrollo de Software I\Sistema de Voto — Proyecto Final - copia\obj\Debug\net48\Sistema_de_Voto___Proyecto_Final.EstadisticasPorcentuales.resources
+D:\INTEC\Laboratorio Desarrollo de Software I\Sistema de Voto — Proyecto Final - copia\obj\Debug\net48\Sistema_de_Voto___Proyecto_Final.EstadisticasGenero.resources
+D:\INTEC\Laboratorio Desarrollo de Software I\Sistema de Voto — Proyecto Final - copia\obj\Debug\net48\Sistema_de_Voto___Proyecto_Final.EstadisticasEdad.resources
